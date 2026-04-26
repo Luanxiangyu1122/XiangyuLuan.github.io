@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Xiangyu Luan / Personal Website"
+title                    : "Xiangyu Luan Personal Website"
 title_separator          : "-"
 name                     : &name "Xiangyu Luan"
 description              : &description "A website about me, an undergraduate student at SUSTech"   # Update this with a general description of your site, this is the default if not overridden by a page
