@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "DSC_0588.JPG"
+  #avatar           : "DSC_0588.JPG"
   name             : "Biographic info"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"  
   bio              : "I'm an undergraduate student major in Environmental Science and Engineering at SUSTech. My research mainly focus on atmospheric chemistry, and I love to go hiking and birdwatching in my free time"
   location         : "Shenzhen, Guangdong, China
   employer         : "Southern University of Science and Technology (SUSTech)"
